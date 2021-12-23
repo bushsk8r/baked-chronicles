@@ -1,1 +1,3 @@
 test feature file
+
+comp text add
